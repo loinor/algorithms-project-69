@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-project-69",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/loinor/algorithms-project-69/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/loinor/algorithms-project-69/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loinor/algorithms-project-69.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loinor/algorithms-project-69/issues"
+  },
+  "homepage": "https://github.com/loinor/algorithms-project-69#readme"
+}
